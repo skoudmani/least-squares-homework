@@ -29,6 +29,10 @@ Key tasks:
 1. **NVIDIA Stock Price Analysis**: Open the notebook `nvidia_stock_analysis.ipynb` in Binder to run the analysis. The notebook will guide you through the steps needed to calculate the line of best fit and make a stock price prediction.
 2. **Taylor Swift Ticket Sales Analysis**: Use the `taylor_swift_sales_analysis.ipynb` notebook (or calculate manually) to find the best-fit line for the ticket sales data. You can modify the provided notebook to perform the analysis or calculate by hand and plot the results in the notebook.
 
+## Acknowledgments
+- The NVIDIA stock data was downloaded from [MarketWatch](https://www.marketwatch.com/).
+- The Taylor Swift ticket sales data was accessed from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Taylor_Swift_live_performances).
+
 ## Requirements
 - **Python 3.x**
 - **Jupyter Notebook**
@@ -40,7 +44,3 @@ Key tasks:
 If you're working locally, you can install these by running:
 ```bash
 pip install numpy matplotlib pandas
-
-## Acknowledgments
-- The NVIDIA stock data was downloaded from [MarketWatch](https://www.marketwatch.com/).
-- The Taylor Swift ticket sales data was accessed from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Taylor_Swift_live_performances).
