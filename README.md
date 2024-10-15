@@ -40,3 +40,7 @@ Key tasks:
 If you're working locally, you can install these by running:
 ```bash
 pip install numpy matplotlib pandas
+
+## Acknowledgments
+- The NVIDIA stock data was downloaded from [MarketWatch](https://www.marketwatch.com/).
+- The Taylor Swift ticket sales data was accessed from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Taylor_Swift_live_performances).
