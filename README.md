@@ -1,4 +1,4 @@
-# Homework Repository
+# Least Squares Fitting: Homework
 
 This repository contains two Jupyter notebooks related to least squares fitting. The tasks focus on extrapolating trends from real-world datasets.
 
